@@ -10,6 +10,12 @@ A basic space ship shooter just like the good old space invaders but now enemy h
 
 Raylib-Cpp-Shooter
 
+## Building
+1. git clone https://github.com/masterchief-max/raylib-cpp-shooter
+2. cd raylib-cpp-shooter
+3. make
+4. Or use Vs code and copy src and run with a template or in your own setting,ide,enviroment etc.
+
 ## objectives:
 kill the enemy ship
 
