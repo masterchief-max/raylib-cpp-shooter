@@ -10,24 +10,23 @@ A basic space ship shooter just like the good old space invaders but now enemy h
 
 Raylib-Cpp-Shooter
 
-#objectives:
+## objectives:
 kill the enemy ship
 
-#controls:
+## controls:
 1. WASD move
 2. SPACE to shoot
 3. R to restart
 
-#features:
+## features:
 1. enemy has moods which change according to health status.
 
 
-#purpose:
+## purpose:
 1. I built this game as a commitment to building stuff and learning C++ and becoming a better programmer.
 2. This game can be used for learning or as an inspiration.
 
-#ScreenShots:
-![Menu](assets/image.png)
+V0.2
 
 #Note:
 This game may have bugs errors no comments because it is still in prototype stage and thanks for checking out my project and improvments are always welcome
