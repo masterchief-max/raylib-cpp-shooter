@@ -27,9 +27,7 @@ kill the enemy ship
 2. This game can be used for learning or as an inspiration.
 
 #ScreenShots:
-![Gameplay](assets/screenshots/image1.png)
-![Menu](assets/screenshots/image.png)
-![GameOver](assets/screenshots/image2.png)
+![Menu](assets/image.png)
 
 #Note:
 This game may have bugs errors no comments because it is still in prototype stage and thanks for checking out my project and improvments are always welcome
