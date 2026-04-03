@@ -26,7 +26,9 @@ kill the enemy ship
 1. I built this game as a commitment to building stuff and learning C++ and becoming a better programmer.
 2. This game can be used for learning or as an inspiration.
 
-V0.2
+# V0.2
+## Notes: 
+1. Now there is a health bar for player and enemy
 
 #Note:
 This game may have bugs errors no comments because it is still in prototype stage and thanks for checking out my project and improvments are always welcome
