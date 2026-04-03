@@ -23,7 +23,7 @@ void reset_enemy(enemy_properties &enemy_prop)
     enemy_prop.posy = GetRandomValue(0,screen_height);
     enemy_prop.health = 100;
 }
-// resets enemy
+// resets enemy's state or mood
 void reset_enemy_state(enemy_mood &enemy_state,enemy_properties enemy_prop)
 {
     if(enemy_prop.health > 75)
